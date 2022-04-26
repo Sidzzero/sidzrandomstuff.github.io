@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welocme Traveller"
 ---
 
-We are just following along , swallowing our over-confidence , to start learning from level 0...
+A minimalistic blog posting area on Programming , Life and anything else that pops up in my head !
