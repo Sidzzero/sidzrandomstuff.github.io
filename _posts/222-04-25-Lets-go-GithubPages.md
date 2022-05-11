@@ -1,5 +1,5 @@
 --------
-title: "Let's go Github Pages !"
+"Let's go Github Pages !"
 --------
 I have finally setup Github Pages to Re(x10 time))Start my Blogging !
 To begin with, I got the basic  flow of githubpages through the 
