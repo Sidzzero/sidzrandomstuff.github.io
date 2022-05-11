@@ -1,8 +1,7 @@
 title: sidzrandomstuff
-author :
-	  name : Name Lastname
-	  email : blah@email.test
-	  github : username
-	  twitter : username
-	  feedburner : feedname
+
+name : Name Lastname
+email : blah@email.test
+github : username
+feedburner : feedname
 theme: minima
