@@ -1,6 +1,9 @@
---------
-"Let's go Github Pages !"
---------
+---
+layout: post
+title: "Let's go Github Pages"
+date: 2022-05-17
+categories: general
+---
 I have finally setup Github Pages to Re(x10 time))Start my Blogging !
 To begin with, I got the basic  flow of githubpages through the 
 free learning available on github itself.(Duh)
