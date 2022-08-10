@@ -1,21 +1,7 @@
-<!doctype html>
-<html>
-  <head>
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
 
-<meta charset="utf-8">
-  <title>{{page.title}}</title>
- </head>
-  <body>
-  <h1>{{page.title}}</h1>
-   <p>{{page.data | date_to_string}} - {{page.author}}</p>
-    {{content}}
-    
-    <h1>Latest Posts</h1>
-    <ul>
-     <li>
-       <h2>More post</h2>
-      
-      </li>
-    </ul>
-  </body>
-</html>
+{{ content }}
