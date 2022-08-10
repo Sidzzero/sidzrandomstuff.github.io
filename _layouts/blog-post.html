@@ -8,10 +8,11 @@ layout: default
 
 <h2>Latest Posts</h2>
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="https://sidzzero.github.io/sidzrandomstuff/{{ post.url }}">{{ post.title }}</a></h2>
-    </li>
-  {% endfor %}
-</ul>
+<h3>
+  {% for post in site.posts %}   
+<h3>
+  <a href="https://sidzzero.github.io/sidzrandomstuff/{{ post.url }}">{{ post.title }}</a>
+  </h3>
+<p><small><strong>{{ post.date | date: "%B %e, %Y" }}</strong> . {{ post.category }} . <a href="http://myname.github.com{{ post.url }}#disqus_thread"></a></small></p>            
+{% endfor %}
+  </h3>
