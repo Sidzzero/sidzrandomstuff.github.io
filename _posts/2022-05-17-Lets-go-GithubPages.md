@@ -2,7 +2,7 @@
 layout: post
 title: "Let's go Github Pages"
 date: 2022-05-17
-author:sidz
+author: sidz
 published: true
 ---
 I have finally setup Github Pages to Re(x10 time))Start my Blogging !
