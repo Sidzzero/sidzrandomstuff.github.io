@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog-post
 title: "Let's go Github Pages"
 date: 2022-05-17
 author: sidz
